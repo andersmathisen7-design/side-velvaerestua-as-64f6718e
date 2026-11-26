@@ -1,0 +1,25 @@
+{
+  "name": "Velværestua AS",
+  "short_name": "Velværestua",
+  "description": "Velværestua AS tilbyr skjønnhetspleie i Fredrikstad. Ring eller send oss en e-post og fortell hva du ønsker.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6b2742",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
